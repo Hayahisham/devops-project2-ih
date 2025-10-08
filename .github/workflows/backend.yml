@@ -4,7 +4,7 @@ name: Build & Deploy Spring Boot to Azure
 on:
   push:
     branches:
-      - maino
+      - main
 
 jobs:
   build-and-deploy:
